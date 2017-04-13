@@ -1,0 +1,6 @@
+D:\C#\Calc_Console\Calc_Console\bin\Debug\Calc_Console.exe.config
+D:\C#\Calc_Console\Calc_Console\bin\Debug\Calc_Console.exe
+D:\C#\Calc_Console\Calc_Console\bin\Debug\Calc_Console.pdb
+D:\C#\Calc_Console\Calc_Console\obj\Debug\Calc_Console.csprojResolveAssemblyReference.cache
+D:\C#\Calc_Console\Calc_Console\obj\Debug\Calc_Console.exe
+D:\C#\Calc_Console\Calc_Console\obj\Debug\Calc_Console.pdb

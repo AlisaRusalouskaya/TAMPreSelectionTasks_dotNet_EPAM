@@ -1,0 +1,12 @@
+D:\C#\Arrays_Matrix\Arrays_Matrix\bin\Debug\Arrays_Matrix.exe.config
+D:\C#\Arrays_Matrix\Arrays_Matrix\bin\Debug\Arrays_Matrix.exe
+D:\C#\Arrays_Matrix\Arrays_Matrix\bin\Debug\Arrays_Matrix.pdb
+D:\C#\Arrays_Matrix\Arrays_Matrix\obj\Debug\Arrays_Matrix.csprojResolveAssemblyReference.cache
+D:\C#\Arrays_Matrix\Arrays_Matrix\obj\Debug\Arrays_Matrix.exe
+D:\C#\Arrays_Matrix\Arrays_Matrix\obj\Debug\Arrays_Matrix.pdb
+E:\Arrays_Matrix\Arrays_Matrix\bin\Debug\Arrays_Matrix.exe.config
+E:\Arrays_Matrix\Arrays_Matrix\obj\Debug\Arrays_Matrix.exe
+E:\Arrays_Matrix\Arrays_Matrix\obj\Debug\Arrays_Matrix.pdb
+E:\Arrays_Matrix\Arrays_Matrix\bin\Debug\Arrays_Matrix.exe
+E:\Arrays_Matrix\Arrays_Matrix\bin\Debug\Arrays_Matrix.pdb
+E:\Arrays_Matrix\Arrays_Matrix\obj\Debug\Arrays_Matrix.csprojResolveAssemblyReference.cache
